@@ -18,7 +18,7 @@
 
 ### 🚀 Sobre Mí & Perfil Profesional
 
-> **Analista de Ciberseguridad / Red Team Specialist** enfocado en **Pentesting Web, Auditoría de Vulnerabilidades y Hacking Ético de Active Directory**. Cuento con trayectoria previa en investigación digital, análisis informático y trazabilidad de evidencias.
+> **Analista de Ciberseguridad / Red Team Profesional** enfocado en **Pentesting Web, Auditoría de Vulnerabilidades y Hacking Ético de Active Directory**. Cuento con trayectoria previa en investigación digital, análisis informático y trazabilidad de evidencias.
 
 * 🎯 **Enfoque Principal (Red Team & Pentesting):** Auditorías web (OWASP Top 10), análisis y explotación controlada de vulnerabilidades, enumeración y escalada de privilegios en entornos Active Directory, y redacción de informes técnicos de impacto (estilo *Bug Bounty*).
 * 🛡️ **Enfoque Secundario (Blue Team & SOC):** Conocimientos en monitorización defensiva, despliegue de SIEM (Wazuh), análisis de logs/tráficos (Wireshark) y reglas YARA para soporte en respuesta ante incidentes.
