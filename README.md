@@ -1,11 +1,11 @@
 <p align="center">
-  <!-- Pauta: Guarda la imagen que adjuntaste en tu repositorio de GitHub con el nombre "banner.jpeg" (o .png) y reemplaza 'TU_USUARIO' por tu nombre de usuario real de GitHub -->
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/main/banner.jpeg" alt="Jonnathan Ciberseguridad Banner" width="450" style="border-radius: 10px;"/>
+  <!-- Pauta: Guarda la imagen con el nombre "banner.jpeg" en tu repositorio y cambia 'TU_USUARIO' por tu nombre de usuario de GitHub -->
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/main/banner.jpeg" alt="Jonnathan Ospina Ciberseguridad Banner" width="450" style="border-radius: 10px;"/>
 </p>
 
-<h1 align="center">🛡️ Jonnathan Ospina González</h1>
+<h1 align="center">⚔️ Jonnathan Ospina González</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=Analista+de+Ciberseguridad+Junior;Ethical+Hacker+%26+SOC+Specialist;Master+Big+School+(El+Pinguino+de+Mario,+Contando+Bits,+El+Bochi);Investigacion+Digital+%26+Analisis+Forense" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=Red+Team+Operator+|+Junior+Ethical+Hacker;Web+Pentesting+%26+Active+Directory;Master+Big+School+(El+Pinguino+de+Mario,+Contando+Bits,+El+Bochi);Investigacion+Digital+%26+Analisis+Forense" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,11 +18,13 @@
 
 ### 🚀 Sobre Mí & Perfil Profesional
 
-> **Analista de Ciberseguridad Junior / Técnico IT** con sólida trayectoria previa en investigación digital, trazabilidad de logs y gestión de datos confidenciales. Formado activamente en **Blue Team / SOC**, **Pentesting Web** y **Hardening de Active Directory**.
+> **Analista de Ciberseguridad / Red Team Specialist** enfocado en **Pentesting Web, Auditoría de Vulnerabilidades y Hacking Ético de Active Directory**. Cuento con trayectoria previa en investigación digital, análisis informático y trazabilidad de evidencias.
 
-* 🎓 **Máster en Ciberseguridad y Hacking Ético:** Formación en *Big School* impartida por referentes como El Pingüino de Mario, Kike Gandía (*Contando Bits*) y Gorka (*El Bochi* - Bug Bounty), respaldado con titulación universitaria.
-* ⚙️ **Especialización Actual:** Despliegue de SIEM Wazuh, análisis forense, auditorías OWASP Top 10 y automatización con n8n y Agentes de IA en Jumo Technologies SL.
-* 👮 **Fondo Operativo:** Experiencia previa en la Policía Nacional de Colombia realizando análisis de evidencias digitales, direcciones IP y sistemas informáticos.
+* 🎯 **Enfoque Principal (Red Team & Pentesting):** Auditorías web (OWASP Top 10), análisis y explotación controlada de vulnerabilidades, enumeración y escalada de privilegios en entornos Active Directory, y redacción de informes técnicos de impacto (estilo *Bug Bounty*).
+* 🛡️ **Enfoque Secundario (Blue Team & SOC):** Conocimientos en monitorización defensiva, despliegue de SIEM (Wazuh), análisis de logs/tráficos (Wireshark) y reglas YARA para soporte en respuesta ante incidentes.
+* 🎓 **Máster en Ciberseguridad y Hacking Ético:** Formado en *Big School* por referentes del sector como El Pingüino de Mario, Kike Gandía (*Contando Bits*) y Gorka (*El Bochi* en Bug Bounty), respaldado por titulación universitaria[cite: 1].
+* ⚙️ **Fusión Tech & Automatización:** Aplicando técnicas de Red Team junto con la creación de flujos de automatización e integración de Agentes de IA en Jumo Technologies SL.
+* 👮 **Background Operativo:** Experiencia previa en la Policía Nacional de Colombia en análisis de evidencias digitales, rastreo de IPs y sistemas informáticos[cite: 1].
 
 ---
 
@@ -44,19 +46,19 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔵 Blue Team & SOC Lab (Wazuh)</h4>
+      <h4>🔴 Active Directory & Web Pentesting (Principal)</h4>
       <ul>
-        <li>Despliegue de servidor <b>Wazuh SIEM</b> y agentes en laboratorio.</li>
-        <li>Implementación de <b>File Integrity Monitoring (FIM)</b> y reglas <b>YARA</b>.</li>
-        <li>Análisis de alertas de seguridad y simulación de respuesta ante incidentes.</li>
+        <li>Auditoría y explotación ética de dominios corporativos (Kerberos, ACLs, envenenamiento NTLM)[cite: 1].</li>
+        <li>Identificación y explotación de vulnerabilidades <b>OWASP Top 10</b> (XSS, SQLi, IDOR, SSRF) con Burp Suite[cite: 1].</li>
+        <li>Elaboración de informes técnicos y medidas de mitigación estilo <i>Bug Bounty</i>[cite: 1].</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🔴 Active Directory & Pentesting Web</h4>
+      <h4>🔵 Blue Team & SOC Lab (Secundario)</h4>
       <ul>
-        <li>Auditoría ética de dominios corporativos (Kerberos, ACLs, envenenamiento NTLM).</li>
-        <li>Detección y explotación controlada de vulnerabilidades <b>OWASP Top 10</b> (XSS, SQLi, IDOR, SSRF).</li>
-        <li>Redacción de informes técnicos y medidas de mitigación estilo <i>Bug Bounty</i>.</li>
+        <li>Despliegue de servidor <b>Wazuh SIEM</b> y agentes en laboratorio[cite: 1].</li>
+        <li>Configuración de <b>File Integrity Monitoring (FIM)</b> y reglas <b>YARA</b>[cite: 1].</li>
+        <li>Análisis de alertas de seguridad y simulación de respuesta ante incidentes[cite: 1].</li>
       </ul>
     </td>
   </tr>
@@ -64,15 +66,15 @@
 
 ---
 
-### 🛠️ Tecnologías & Herramientas
+### 🛠️ Red Team Arsenal & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,windows,net,git,vscode&perline=8" />
 </p>
 
 ```bash
-[+] SOC & SIEM      : Wazuh, Reglas YARA, IoCs, FIM, MITRE ATT&CK
-[+] Web Pentesting  : Burp Suite, Nmap, FFUF, OWASP Top 10, CVSS
-[+] Forense & CTI   : Volatility (RAM), Autopsy, OSINT, Google Dorking
-[+] Sistemas & Redes: Active Directory, Wireshark, TCP/IP, Subnetting, Netplan, SSH
+[+] Web Pentesting  : Burp Suite, Nmap, FFUF, OWASP Top 10, Gestor de CVEs/CVSS
+[+] Active Directory: Enumeración de Usuarios, Kerberos, ACLs, NTLM Poisoning
+[+] Forense & OSINT : Volatility (RAM), Autopsy, Google Dorking, Trazabilidad IP/Logs
+[+] SOC & Defensiva : Wazuh SIEM, Reglas YARA, IoCs, FIM, Wireshark, MITRE ATT&CK
 [+] Automation      : n8n, Workflows, Agentes de IA
