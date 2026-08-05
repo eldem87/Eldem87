@@ -1,73 +1,62 @@
 <p align="center">
-  <!-- Reemplaza el enlace de la imagen por tu propio banner si lo deseas -->
-  <img src="https://github.com/ccyl13/ccyl13/blob/main/banner.png?raw=true" alt="Banner Jonnathan Ospina Cybersecurity" width="100%"/>
+  <!-- Pauta: Guarda la imagen que adjuntaste en tu repositorio de GitHub con el nombre "banner.jpeg" (o .png) y reemplaza 'TU_USUARIO' por tu nombre de usuario real de GitHub -->
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/main/banner.jpeg" alt="Jonnathan Ciberseguridad Banner" width="450" style="border-radius: 10px;"/>
 </p>
 
 <h1 align="center">🛡️ Jonnathan Ospina González</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=Junior+Cybersecurity+Analyst;Ethical+Hacker+%26+SOC+Specialist;Formado+en+Big+School+(Mario,+Contando+Bits,+El+Bochi);Investigaci%C3%B3n+Digital+%26+Forense" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=Analista+de+Ciberseguridad+Junior;Ethical+Hacker+%26+SOC+Specialist;Master+Big+School+(El+Pinguino+de+Mario,+Contando+Bits,+El+Bochi);Investigacion+Digital+%26+Analisis+Forense" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jonnathan-ospina-gonzalez-752219252"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ospinagonzalezjonnathan@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/UBICACI%C3%93N-BARCELONA-blue?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <a href="https://linkedin.com/in/jonnathan-ospina-gonzalez-752219252"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ospinagonzalezjonnathan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Ubicación-Barcelona%2C%20España-blue?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
 ---
 
 ### 🚀 Sobre Mí & Perfil Profesional
 
-> **Analista de Ciberseguridad Junior / Técnico IT** con background en investigación digital, análisis de evidencias y gestión de datos confidenciales. Formado activamente en **Blue Team / SOC**, **Pentesting Web** y **Hardening de Active Directory**. 
+> **Analista de Ciberseguridad Junior / Técnico IT** con sólida trayectoria previa en investigación digital, trazabilidad de logs y gestión de datos confidenciales. Formado activamente en **Blue Team / SOC**, **Pentesting Web** y **Hardening de Active Directory**.
 
-* 🎓 **Máster en Ciberseguridad y Hacking Ético** en *Big School* (Aprendiendo de referentes como El Pingüino de Mario, Kike Gandía "Contando Bits" y Gorka "El Bochi" en Bug Bounty, avalado por titulación universitaria).
-* ⚙️ **Enfoque Actual:** Despliegue de entornos SOC (Wazuh SIEM), análisis forense, auditorías web (OWASP Top 10) y automatización de flujos con n8n y Agentes de IA en Jumo Technologies SL.
-* 🛡️ **Fondo Operativo:** Experiencia previa en la Policía Nacional de Colombia realizando trazabilidad de evidencias digitales, IPs y logs de comunicaciones.
-
----
-
-### 🎓 Formación Destacada & Certificaciones
-
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://img.icons8.com/fluency/60/graduation-cap.png"/><br>
-      <b>Máster Ciberseguridad & Hacking Ético</b><br>
-      <i>Big School (Aval Universitario)</i>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.icons8.com/fluency/60/shield-settings.png"/><br>
-      <b>Ciberseguridad en Entornos OT</b><br>
-      <i>MainJobs (2025)</i>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.icons8.com/color/60/cisco.png"/><br>
-      <b>Networking & Cybersecurity</b><br>
-      <i>Cisco Networking Academy</i>
-    </td>
-  </tr>
-</table>
+* 🎓 **Máster en Ciberseguridad y Hacking Ético:** Formación en *Big School* impartida por referentes como El Pingüino de Mario, Kike Gandía (*Contando Bits*) y Gorka (*El Bochi* - Bug Bounty), respaldado con titulación universitaria.
+* ⚙️ **Especialización Actual:** Despliegue de SIEM Wazuh, análisis forense, auditorías OWASP Top 10 y automatización con n8n y Agentes de IA en Jumo Technologies SL.
+* 👮 **Fondo Operativo:** Experiencia previa en la Policía Nacional de Colombia realizando análisis de evidencias digitales, direcciones IP y sistemas informáticos.
 
 ---
 
-### 🧪 Laboratorios Prácticos & Proyectos
+### 🎓 Formación & Certificaciones Destacadas
 
-<table width="100%">
+<p align="center">
+  <img src="https://img.shields.io/badge/MÁSTER-Ciberseguridad_%26_Hacking_Ético_(Big_School)-00F0FF?style=for-the-badge&logo=academicons&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MAINJOBS-Ciberseguridad_Entornos_OT_(2025)-black?style=for-the-badge&logo=shield&logoColor=00F0FF"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/CISCO-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CISCO-Introduction_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MASTER_D-Curso_Ciberseguridad_%26_Hacking-red?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+</p>
+
+---
+
+### 🧪 Proyectos & Laboratorios Prácticos
+
+<table>
   <tr>
     <td width="50%" valign="top">
       <h4>🔵 Blue Team & SOC Lab (Wazuh)</h4>
       <ul>
-        <li>Despliegue de servidor <b>Wazuh SIEM</b> y agentes en entornos de pruebas.</li>
-        <li>Monitorización de eventos, reglas <b>YARA</b> y configuración de <b>File Integrity Monitoring (FIM)</b>.</li>
-        <li>Simulación y análisis de alertas de seguridad.</li>
+        <li>Despliegue de servidor <b>Wazuh SIEM</b> y agentes en laboratorio.</li>
+        <li>Implementación de <b>File Integrity Monitoring (FIM)</b> y reglas <b>YARA</b>.</li>
+        <li>Análisis de alertas de seguridad y simulación de respuesta ante incidentes.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🔴 Active Directory & Web Pentesting</h4>
+      <h4>🔴 Active Directory & Pentesting Web</h4>
       <ul>
-        <li>Auditoría y explotación ética de entornos de Dominio (Kerberos, ACLs, envenenamiento NTLM).</li>
-        <li>Identificación de vulnerabilidades <b>OWASP Top 10</b> (XSS, SQLi, IDOR, SSRF) con Burp Suite.</li>
-        <li>Elaboración de informes técnicos y remediaciones tipo <i>Bug Bounty</i>.</li>
+        <li>Auditoría ética de dominios corporativos (Kerberos, ACLs, envenenamiento NTLM).</li>
+        <li>Detección y explotación controlada de vulnerabilidades <b>OWASP Top 10</b> (XSS, SQLi, IDOR, SSRF).</li>
+        <li>Redacción de informes técnicos y medidas de mitigación estilo <i>Bug Bounty</i>.</li>
       </ul>
     </td>
   </tr>
@@ -75,41 +64,15 @@
 
 ---
 
-### 🛠️ Technical Arsenal & Tools
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚡ Tecnologías & Sistemas</h4>
-      <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,windows,net,git,vscode&perline=4" /><br><br>
-      <code><b>Sistemas:</b> Linux Hardening, Active Directory, VirtualBox</code><br>
-      <code><b>Redes:</b> TCP/IP, Wireshark, Subnetting, SSH, Netplan</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎯 Ciberseguridad & Forensic Kit</h4>
-      <code><b>SOC / SIEM:</b> Wazuh, YARA, IoCs, MITRE ATT&CK</code><br>
-      <code><b>Pentesting Web:</b> Burp Suite, Nmap, FFUF, OWASP</code><br>
-      <code><b>Forense & CTI:</b> Volatility (RAM), Autopsy, OSINT, Dorking</code><br>
-      <code><b>Automatización:</b> n8n, Workflows, Agentes de IA</code>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Threat Intelligence Stats
+### 🛠️ Tecnologías & Herramientas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ccyl13&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccyl13&layout=compact&theme=cyberpunk&hide_border=true&bg_color=0D1117&title_color=00F0FF" width="38%" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,windows,net,git,vscode&perline=8" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccyl13&theme=cyberpunk&hide_border=true&background=0D1117&sideNums=00F0FF&stroke=00F0FF" width="87%" />
-</p>
-
----
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ccyl13&label=SYSTEM+ACCESSES&color=00f0ff&style=flat-square" alt="Views" />
-</p>
+```bash
+[+] SOC & SIEM      : Wazuh, Reglas YARA, IoCs, FIM, MITRE ATT&CK
+[+] Web Pentesting  : Burp Suite, Nmap, FFUF, OWASP Top 10, CVSS
+[+] Forense & CTI   : Volatility (RAM), Autopsy, OSINT, Google Dorking
+[+] Sistemas & Redes: Active Directory, Wireshark, TCP/IP, Subnetting, Netplan, SSH
+[+] Automation      : n8n, Workflows, Agentes de IA
